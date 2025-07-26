@@ -5,7 +5,7 @@ A beautiful Flutter app demonstrating custom themes and UI components.
 ## 📸 Screenshots
 
 
- |![here](D:\ITI\themes\theme\lib\screens\ph.png)
+ |![here](lib/screens/ph.png)
 
 
 ## 🚀 Features
