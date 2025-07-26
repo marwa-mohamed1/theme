@@ -5,7 +5,7 @@ A beautiful Flutter app demonstrating custom themes and UI components.
 ## 📸 Screenshots
 
 
- |![alt text](image.png)
+ |![here](image.png)
 
 > 📁 Make sure the `screenshots` folder is in the root directory and contains the above images: `home.png`, `card.png`.
 
