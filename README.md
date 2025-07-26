@@ -1,16 +1,17 @@
-# theme
+# Flutter Theme App 🎨
 
-A new Flutter project.
+A beautiful Flutter app demonstrating custom themes and UI components.
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ |![alt text](image.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> 📁 Make sure the `screenshots` folder is in the root directory and contains the above images: `home.png`, `card.png`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- Light and dark theme support
+- Modern UI design
+- Reusable components (cards, buttons)
+- Responsive layout
